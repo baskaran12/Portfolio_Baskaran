@@ -342,6 +342,10 @@ img {
 }
 
 /* ===== WORK =====*/
+
+#para{
+	text-align:center
+}
 .work__container {
   row-gap: 2rem;
 }
